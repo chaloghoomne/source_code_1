@@ -1,8 +1,4 @@
-export const BASE_URL='https://chaloghoomneapi.kickrtechnology.in/api/v1/'
-// export const REACT_URL = 'https://adminchaloghoomne.kickrtech.in'
-export const REACT_URL ='http://localhost:5174'
-
-// export const BASE_URL = "https://api.chaloghoomne.com/api/v1/";
+export const REACT_URL = 'https://adminchaloghoomne.kickrtech.in'
 
 export const NetworkConfig = {
   ADDCONTENT: "/add-content",
